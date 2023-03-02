@@ -1,4 +1,4 @@
-# patika_sql_od
+# patika.dev SQL practice 01
 
 🔸film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
  ``` sql
